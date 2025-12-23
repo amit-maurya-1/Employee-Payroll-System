@@ -1,0 +1,7 @@
+167,Amit Maurya,1200000.0
+176,Omji Dubey,1200000.0
+203,Prince Baranwal,12000000.0
+190,Divyanshu,120000000.0
+157,VIvek sharma,120000.0
+177,Rahul,1200.0
+197,Pratyaksha(CR),12.0
